@@ -15,7 +15,7 @@ body {
 @media screen and (max-width: 600px) {
     body {
         background-color: black;
-        height: 700px;
+        height: 670px;
       }
 }
 #Main {
@@ -48,7 +48,7 @@ body {
 
 @media screen and (max-width: 600px) {
     #Main-image {
-        width: 360px;
+        width: 347px;
         height: 150px;
         position: absolute;
         top: 430px;
@@ -131,7 +131,7 @@ body {
 
 @media screen and (max-width: 600px) {
     #c {
-        width: 390px;
+        width: 370px;
         height: 530px;
         position: absolute;
     }  
@@ -154,7 +154,7 @@ body {
         height: 280px;
         position: absolute;
         top: 130px;
-        left: 60px;
+        left: 52px;
         background-color: black;
         border: 7px solid white;
         border-radius: 5%;
@@ -447,7 +447,7 @@ body {
     #Info-text {
         background-color: #A9A9A9;
         float: right;
-        width: 360px;
+        width: 347px;
         height: 150px;
         position: absolute;
         top: 430px;
@@ -498,7 +498,7 @@ body {
     #Certificates-text {
         background-color: #A9A9A9;
         float: right;
-        width: 360px;
+        width: 347px;
         height: 150px;
         position: absolute;
         top: 430px;
@@ -630,7 +630,7 @@ body {
     #Projects-text {
         background-color: #A9A9A9;
         float: right;
-        width: 360px;
+        width: 347px;
         height: 150px;
         position: absolute;
         top: 430px;
@@ -666,7 +666,7 @@ body {
     #Contact-text {
         background-color: #A9A9A9;
         float: right;
-        width: 360px;
+        width: 347px;
         height: 150px;
         position: absolute;
         top: 430px;
@@ -689,7 +689,7 @@ body {
 
 @media screen and (max-width: 600px) {
     #Contact-details {
-        font-size: 10px;
+        font-size: 8px;
         font-weight: bold;
         padding-left: 10px;
       }
