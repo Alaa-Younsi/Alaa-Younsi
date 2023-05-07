@@ -15,7 +15,7 @@ body {
 @media screen and (max-width: 600px) {
     body {
         background-color: black;
-        height: 670px;
+        height: 700px;
       }
 }
 #Main {
@@ -48,11 +48,11 @@ body {
 
 @media screen and (max-width: 600px) {
     #Main-image {
-        width: 347px;
+        width: 335px;
         height: 150px;
         position: absolute;
         top: 430px;
-        left: 30px; 
+        left: 25px; 
     }   
 }
 
@@ -131,7 +131,7 @@ body {
 
 @media screen and (max-width: 600px) {
     #c {
-        width: 370px;
+        width: 353px;
         height: 530px;
         position: absolute;
     }  
@@ -154,7 +154,7 @@ body {
         height: 280px;
         position: absolute;
         top: 130px;
-        left: 52px;
+        left: 43px;
         background-color: black;
         border: 7px solid white;
         border-radius: 5%;
