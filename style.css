@@ -48,10 +48,10 @@ body {
 
 @media screen and (max-width: 600px) {
     #Main-image {
-        width: 335px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
+        top: 423px;
         left: 25px; 
     }   
 }
@@ -153,8 +153,8 @@ body {
         width: 300px;
         height: 280px;
         position: absolute;
-        top: 130px;
-        left: 43px;
+        top: 125px;
+        left: 45px;
         background-color: black;
         border: 7px solid white;
         border-radius: 5%;
@@ -447,11 +447,11 @@ body {
     #Info-text {
         background-color: #A9A9A9;
         float: right;
-        width: 347px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
-        left: 30px;
+        top: 423px;
+        left: 25px;
         border: 7px solid white;
         border-radius: 5%;
         padding-left: 10px;
@@ -498,11 +498,11 @@ body {
     #Certificates-text {
         background-color: #A9A9A9;
         float: right;
-        width: 347px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
-        left: 30px;
+        top: 423px;
+        left: 25px;
         border: 7px solid white;
         border-radius: 5%;
         padding-left: 10px;
@@ -534,8 +534,8 @@ body {
         border: 5px solid #808080;
         border-radius: 5%;
         position: absolute;
-        top: 5px;
-        left: 20px;
+        top: 15px;
+        left: 15px;
         z-index: 4;
     }
 }
@@ -564,8 +564,8 @@ body {
         border: 5px solid #808080;
         border-radius: 5%;
         position: absolute;
-        top: 5px;
-        left: 190px;
+        top: 15px;
+        left: 170px;
         z-index: 4;
     }
 }
@@ -585,8 +585,8 @@ body {
 @media screen and (max-width: 600px) {
     #Certificate1-text {
         position: absolute;
-        top: 110px;
-        left: 50px;
+        top: 120px;
+        left: 40px;
         font-weight: bold;
         z-index: 3;
     }
@@ -603,8 +603,8 @@ body {
 @media screen and (max-width: 600px) {
     #Certificate2-text {
         position: absolute;
-        top: 107px;
-        left: 240px;
+        top: 120px;
+        left: 220px;
         font-weight: bold;
         z-index: 3;
     }
@@ -630,11 +630,11 @@ body {
     #Projects-text {
         background-color: #A9A9A9;
         float: right;
-        width: 347px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
-        left: 30px;
+        top: 423px;
+        left: 25px;
         border: 7px solid white;
         border-radius: 5%;
         padding-left: 10px;
@@ -666,11 +666,11 @@ body {
     #Contact-text {
         background-color: #A9A9A9;
         float: right;
-        width: 347px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
-        left: 30px;
+        top: 423px;
+        left: 25px;
         border: 7px solid white;
         border-radius: 5%;
         padding-left: 10px;
@@ -985,7 +985,7 @@ body {
         font-size: 14px;
         color: #666;
         position: absolute;
-        top: 95px;
+        top: 85px;
         left: 30px;
     }
 }
@@ -1084,11 +1084,11 @@ body {
     #Blog-text {
         background-color: #A9A9A9;
         float: right;
-        width: 360px;
-        height: 150px;
+        width: 338px;
+        height: 170px;
         position: absolute;
-        top: 430px;
-        left: 30px;
+        top: 423px;
+        left: 25px;
         border: 7px solid white;
         border-radius: 5%;
         font-size: 9px;
