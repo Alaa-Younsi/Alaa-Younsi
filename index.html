@@ -1,166 +1,37 @@
 <!DOCTYPE html>
+
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta lang="en">
-        <title>Detective Marlowe</title>
-        <link rel="stylesheet" href="style.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Developer & Designer">
-        <link rel="icon" href="hat-logo.jpg">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    </head>
-    <body>
-        
-        <div id="Main">
-            
-            <main class="upperside">
-                <h1 id="Title">Marlowe</h1>
-            </main>
+  <head>
+    <title>Timestamp Microservice | freecodecamp.org</title>
+    <link
+      rel="shortcut icon"
+      href="https://cdn.freecodecamp.org/universal/favicons/favicon-32x32.png"
+      type="image/x-icon"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
 
-            <canvas id="c"></canvas>
+  <body>
+    <h1>Timestamp Microservice</h1>
+    <hr />
+    <div class="container">
+      <h3>Example Usage:</h3>
+      <ul>
+        <li><a href="api/2015-12-25">[project url]/api/2015-12-25</a></li>
+        <li><a href="api/1451001600000">[project url]/api/1451001600000</a></li>
+      </ul>
 
-            <div id="Tv">
-                <div id="Home-text">
-                    <p id="Home-title">Home</p>
-                    <p id="Home-text1">Private Developer & Designer</p>
-                    <p>i can do:</p>
-                    <ul>
-                        <li>Building websites (Full Stack Web Develoment)</li>
-                        <li>Front-end Web development (Html, Css, JavaScript..)</li>
-                        <li>Back-end web developent (Php, Sql..)</li>
-                        <li>Photoshop (Logos, Pictures, Profile cover..)</li>
-                        <li>Graphic Design (2D, 3D..)</li>
-                    </ul>
-                    <p id="Home-text2">International Work</p>
-                </div>
-                <div id="Info-text-tv">
-                    <p id="Info-title">Info</p>
-                    <p>Alaa Younsi, 19yo, Algerian Developer & Designer</p>
-                    <span class="change">Detective Marlowe</span> is a character that represents what i always wanted to be and I'm still chasing, 
-                    Adapted from Raymond Chandler’s Novels, my favourite, a masterpiece.
-                    <p class="change">It's finally time to get real.</p>
-                </div>
-                <div id="Certificates-text-tv">
-                    <p id="Certificates-title">Certificates</p>
-                    <p>If you are intrested in learning web development or coding in general,</p>
-                    <p>i recommend:
-                        <ul>
-                            <li><a href="https://www.freecodecamp.org/learn/" id="Fcc" target="_blank">FreeCodeCamp</a></li>
-                            <li><a href="https://www.w3schools.com/" id="W3s" target="_blank">W3schools</a></p></li>
-                        </ul>                    
-                    <p class="change">In my opinion those are the best.</p>
-                </div>
-                <div id="Projects-text-tv">
-                    <p id="Projects-title">Projects</p>
-                    <p class="websites">Websites:</p>
-                    <ul id="Projects-websites-list">
-                        <li><a href="https://alaa-younsi.github.io/Marlowe-1.0/" target="_blank" id="Marlowe-old">Marlowe 1.0</a></li>
-                        <li><a href="https://alaa-younsi.github.io/Zed/" target="_blank" id="Zed">Zed</a></li>
-                    </ul>
-                </div>
-                <div id="Blog-text-tv">
-                    <p id="Blog-title">Blog</p>
-                    In this blog i share pieces of my daily life, somethings I like, and some news and announcments.
-                </div>
-                <div id="Contact-text-tv">
-                    <p id="Contact-title">Contact</p>
-                    you can follow me at:
-                    <br><br>
-                    <span><a href="https://github.com/Alaa-Younsi" target="_blank" id="Github">GitHub</a></span>
-                    <span><a href="https://www.facebook.com/profile.php?id=100089375447525" target="_blank" class="social-media"><span class="fa fa-facebook"></span></a></span>
-                    <span><a href="#" target="_blank" class="social-media"><span class="fa fa-instagram"></span></a></span>
-                    <span><a href="https://twitter.com/PhilipMarlowe__" target="_blank" class="social-media"><span class="fa fa-twitter"></span></a></span>
-                    <span><a href="https://www.youtube.com/channel/UCB6trFLCd2djYF7m1iWr9bw" target="_blank" class="social-media"><span class="fa fa-youtube"></span></a></span>
-                </div>
-
-                <div id="Remote">
-                    <button class="remote-button" id="Home"><a href="#" class="remote-text">Home</a></button>
-                    <button class="remote-button" id="Info"><a href="#"  class="remote-text">Info</a></button>
-                    <button class="remote-button" id="Certificates"><a href="#"  class="remote-text">Certificates</a></button>
-                    <button class="remote-button" id="Projects"><a href="#"  class="remote-text">Projects</a></button>
-                    <button class="remote-button" id="Blog"><a href="#"  class="remote-text">Blog</a></button>
-                    <button class="remote-button" id="Contact"><a href="#"  class="remote-text">Contact</a></button>
-                    <button class="remote-button" id="Off"><a href="#"  class="remote-text-off">Off</a></button>
-                </div>
-            </div>
-
-            <div id="Main-image">
-                <img src="hat.png" id="Hat-image">
-            </div>
-            
-            <div id="Info-text">
-                <div id="Info-text-lines">It’s about 11 O’clock in the morning, it’s raining,
-                     not as hard as last night though, I know, I was awake,
-                      trying to create something, as if it would make a difference,
-                       just made coffee, I had poor sleep, nothing new,
-                        just another regular grey day, I have been eating randomly too, maybe that's why i can barely sleep,
-                         It all started when I got to the university,
-                          the place where you’re supposed to build your future,
-                           or give up on your dreams and die,
-                            depends on the way you look at things,
-                             I study computer science, something that’s supposed to be cool and hard to get,
-                              that’s what I thought too, sometimes I question if I’m just being negative and I am my own problem,
-                               but once I take the bus to the subway attempting stupid classes regardless
-                                of my sleepless nights I question everything, It took the best of me,
-                                 sometimes I just want to end it, never go there again, but the military service would take me,
-                                  I can’t escape can I, all I want is to sit here, try to code something,
-                                   do something creative, play some chess, maybe work on a project or two,
-                                    read some novels, whatever, It's just a matter of time until i change everything.</div>
-            </div>
-
-            <div id="Certificates-text">
-                <img src="certificate1.jpg" id="Certificate1">
-                <p id="Certificate1-text">Html Css Certificate</p>
-                <img src="certificate2.jpg" id="Certificate2">
-                <p id="Certificate2-text">JavaScript Certificate</p>
-            </div>
-
-            <div id="Projects-text"></div>
-
-            <div id="Blog-text">
-                <section id="Blog-section1">
-                    <span id="Blog-section1-title">Personal Blog</span>
-                </section>
-                <section id="Blog-section2">
-                    <div id="Blog-section2-text">
-                        <p>Some Pictures of</p>
-                        <p>University of Algiers1</p>
-                    </div>
-                    <span><img src="blog-image1.jpg" class="blog-images"></span>
-                    <span><img src="blog-image2.jpg" class="blog-images"></span>
-                    <span><img src="blog-image3.jpg" class="blog-images"></span>
-                    <span><img src="blog-image4.jpg" class="blog-images"></span>
-                    <span><img src="blog-image5.jpg" class="blog-images"></span>
-                    <span><img src="blog-image6.jpg" class="blog-images"></span>
-                    <span><img src="blog-image7.jpg" class="blog-images"></span>
-                </section>
-            </div>
-
-            <div id="Contact-text">
-                <div id="Contact-details">
-                    Send me an E-mail Including:
-                    <ul>
-                        <li>Your name and country</li>
-                        <li>Describing what do you exactly want (website, logo, picture..)</li>
-                        <li>Give Details and examples</li>
-                        <li>Specifiying when do you want it</li>
-                        <li>Payment way (Paypal, Visa Card, Algerien CCP...)</li>
-                    </ul>
-                    <span id="Email">philipmarllow777@gmail.com</span>
-                    <span id="Else">Or else just contact me at social media.</span>
-               </div>
-            </div>
-
-            <button class="remote-button" id="On-button"><a href="#" class="remote-text">On</a></button>
- 
-            <footer class="downside"></footer>
-
-        </div>
-        
-        <script src="main.js"></script>
-        <script src="background.js"></script>
-
-    </body>
+      <h3>Example Output:</h3>
+      <p>
+        <code
+          >{"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}</code
+        >
+      </p>
+    </div>
+  </body>
 </html>
