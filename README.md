@@ -12,16 +12,9 @@ Skills: HTML / CSS / JS / GIT / NPM / REACT / VUE.JS / NODE.JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/syrexl7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/syrexl7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19316858)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Philip_Marlowe__)  
 
+# ✨ [ portfolio](https://horizonshade.me)
 
-<h1 align="left">Hi 👋! My name is Moncef and I'm a Full-stack developer ,  from Algeria</h1>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=modecode22&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=modecode22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-# ✨ [ portfolio](https://moncef.net) 🚀
-
-# 📫 moncef.aissaoui@moncef.net  
+# 📫 alaayounsibusiness@gmail.com
 
 # 🕸️ My Skills
 
