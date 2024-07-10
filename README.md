@@ -1,9 +1,5 @@
 ## Hi there 👋, my name is Alaa.
-#### I am a fullstack web developer & UX / UI designer.
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Alaa-Younsi/Alaa-Younsi/main/info.gif)
-
-In a mission to learn as much programming as possible before jumping into cyber security. /n
-I like developing cool websites at late nights.
 
 # ✨ [ portfolio](https://horizonshade.me)
 
