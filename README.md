@@ -24,7 +24,7 @@
         </td>
         <td align="center" width="96">
           <img src="https://res.cloudinary.com/dzph5or6i/image/upload/v1722241568/logo-with-shadow_wjf6mc.png" width="48" height="48" alt="Vite">
-          <br>Electron
+          <br>Vite
         </td>
         <td align="center" width="96">
           <img src="https://seeklogo.com/images/T/tauri-logo-39352BD5A1-seeklogo.com.png" width="48" height="48" alt="Tauri">
