@@ -81,6 +81,7 @@
     </tbody>
   </table>
 </div>
+
 <div align="center">
   <table>
     <tbody>
@@ -119,8 +120,6 @@
           <br>esbuild
         </td>
       </tr>
-
-      <!-- Row 2 -->
       <tr>
         <td align="center" width="96">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="48" />
@@ -155,8 +154,6 @@
           <br>Firebase
         </td>
       </tr>
-
-      <!-- Row 3 (new stack) -->
       <tr>
         <td align="center" width="96">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" />
@@ -194,3 +191,4 @@
     </tbody>
   </table>
 </div>
+
