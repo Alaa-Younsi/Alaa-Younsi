@@ -104,7 +104,7 @@
           <br>Tailwind
         </td>
         <td align="center" width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" width="48" />
+          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" />
           <br>Prettier
         </td>
         <td align="center" width="96">
@@ -116,7 +116,7 @@
           <br>Vite
         </td>
         <td align="center" width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esbuild/esbuild-original.svg" width="48" />
+          <img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat&logo=esbuild&logoColor=000" />
           <br>esbuild
         </td>
       </tr>
