@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Alaa-Younsi/Alaa-Younsi/main/newestgithubinfo.gif)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Alaa-Younsi/Alaa-Younsi/main/info.gif)
 
 ## ✨ [ portfolio](https://portfolio-six-pi-28.vercel.app)
 
