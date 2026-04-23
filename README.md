@@ -26,9 +26,9 @@
 
 <!-- SNAKE CONTRIBUTION GRAPH — requires GitHub Action (see setup note below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashv3il/Ashv3il/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashv3il/Ashv3il/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashv3il/Ashv3il/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaa-Younsi/Ashv3il/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaa-Younsi/Ashv3il/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Alaa-Younsi/Ashv3il/output/github-snake-dark.svg" />
 </picture>
 
 </div>
